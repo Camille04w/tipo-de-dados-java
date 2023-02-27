@@ -5,6 +5,7 @@ public class EstruturaDeRepeticao{
         while (cc<4) {
             System.out.println("teste"+ (cc+1));
             cc++;
+            gfgfg
         }
     }
 }
